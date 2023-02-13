@@ -1,0 +1,27 @@
+/* h1{
+    display: inline;
+
+}
+h2{
+    display: inline; */
+
+a{
+    display: block;
+}
+img{
+    width: 400;
+
+}
+.heading{
+    font-size: 20px;
+    font-family: sans-serif;
+
+}
+.dark{
+    background-color: bisque;
+    color: teal;
+}
+.light{
+    color: blueviolet;
+}
+
